@@ -1,4 +1,4 @@
-# m266aPrep
+# Modul 226a Prüfungsvorbereitung
 
 ####Dies ist die Vorbereitung für die kommende Prüfung im Modul 226a
 
